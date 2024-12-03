@@ -1,0 +1,256 @@
+*{
+  margin: 0 ;
+  padding: 0;
+}
+@media(min-width:0px) and (max-width:575.99px){
+    
+  #banner h2 {
+      font-size: 32px;
+      font-weight: 500;
+
+  }
+  .btn_and_link{
+      flex-direction: column;
+  }
+  #banner .s_link {
+      justify-content: center;
+      margin-top: 26px;
+  }
+  #banner .card {
+      height: 150px !important;
+      width: 150px !important;
+      margin-top: 58px;
+  }
+  /* #banner .card img{
+    wid
+  } */
+  #banner .s_box {
+      height: 70px;
+      width: 115px;
+      margin-top: 65px;
+  }
+  #banner .s_box h3 {
+      font-size: 22px;
+      margin-top: 4px;
+      margin-bottom: 5px;
+  }
+  #about {
+      padding: 0px 0;
+    
+  }
+  #about p {
+      font-size: 14px;
+      width: 100%;
+      line-height: 28px;
+      margin-bottom: 80px;
+  }
+  #about h4 {    
+      margin-bottom: 35px;
+  }
+  #about .box_mini img {
+      width: 30%;
+  } 
+  #service {
+      padding: 20px 0;
+  
+  }
+  #service .service_box {
+      
+      margin-bottom: 20px;
+  }
+  #service .service_box h4 {
+      font-size: 18px;
+    
+  }
+  #service p {
+      margin-top: 0;
+      margin-bottom: 0px;
+      font-size: 12px;
+  }
+  #contacd {
+      padding: 0px 0;
+  
+  }
+  #contacd .input_box input {
+      padding: 5px 2px;
+ 
+  }
+  #contacd h4{
+      font-size: 16px;
+  }
+  .from_box {
+      display: flex;
+      flex-direction: column;
+  }
+  .input_box{
+      display: flex;
+      flex-direction: column;
+  }
+
+}
+@media(min-width:576px) and (max-width:767.99px){
+  #banner .card {
+      height: 400px;
+      width: 350px;
+      margin-top: 90px;
+  }
+  #banner .s_box {
+      height: 100px;
+      width: 160px;
+      margin-top: 88px;
+  }
+  #banner .s_box h3 {
+      font-size: 32px;
+      margin-top: 8px;
+      margin-bottom: 20px;
+  }
+  #about {
+      padding: 0px 0;
+    
+  }
+  #about h4 {    
+      margin-bottom: 35px;
+  }
+  #about .box_mini img {
+      width: 30%;
+  } 
+  #service .service_box {
+      
+      margin-bottom: 20px;
+  }
+  #contacd {
+      padding: 0px 0;
+  
+  }
+  #contacd .input_box input {
+      padding: 5px 2px;
+ 
+  }
+
+}
+
+@media (min-width:768px) and (max-width:991.99px){
+  #banner .card {
+      height: 400px;
+      width: 350px;
+      margin-top: 90px;
+  }
+  #banner .s_box {
+      height: 100px;
+      width: 160px;
+      margin-top: 88px;
+  }
+  #banner .s_box h3 {
+      font-size: 32px;
+      margin-top: 8px;
+      margin-bottom: 20px;
+  }
+  #about {
+      padding: 0px 0;
+    
+  }
+  #about h4 {    
+      margin-bottom: 35px;
+  }
+  #about .box_mini img {
+      width: 30%;
+  } 
+  #service .service_box {
+      
+      margin-bottom: 20px;
+  }
+  #contacd {
+      padding: 0px 0;
+  
+  }
+
+
+}
+@media (min-width:992px) and (max-width:1199.99px){
+  #banner .card {
+      height: 400px;
+      width: 350px;
+      margin-top: 90px;
+  }
+  #banner .s_box {
+      height: 100px;
+      width: 160px;
+      margin-top: 88px;
+  }
+  #banner .s_box h3 {
+      font-size: 32px;
+      margin-top: 8px;
+      margin-bottom: 20px;
+  }
+  #about {
+      padding: 0px 0;
+    
+  }
+  #about h4 {    
+      margin-bottom: 35px;
+  }
+  #about .box_mini img {
+      width: 70%;
+  } 
+  #service .service_box {
+      
+      margin-bottom: 20px;
+  }
+  #contacd {
+      padding: 0px 0;
+  
+  }
+  #contacd h4{
+      font-size: 16px;
+  }
+  .input_box{
+      display: flex;
+      flex-direction: column;
+  }
+
+
+}
+@media (min-width:1200px) and (max-width:1399.99px){
+  #banner .card {
+      height: 400px;
+      width: 350px;
+      margin-top: 90px;
+  }
+  #banner .s_box {
+      height: 100px;
+      width: 160px;
+      margin-top: 88px;
+  }
+  #banner .s_box h3 {
+      font-size: 32px;
+      margin-top: 8px;
+      margin-bottom: 20px;
+  }
+  #about {
+      padding: 0px 0;
+    
+  }
+  #about h4 {    
+      margin-bottom: 35px;
+  }
+  #about .box_mini img {
+      width: 70%;
+  } 
+  #service .service_box {
+      
+      margin-bottom: 20px;
+  }
+  #contacd {
+      padding: 0px 0;
+  
+  }
+  #contacd h4{
+      font-size: 16px;
+  }
+  .input_box{
+      display: flex;
+      flex-direction: column;
+  }
+
+
+}
