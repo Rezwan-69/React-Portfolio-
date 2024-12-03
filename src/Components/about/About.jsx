@@ -1,9 +1,9 @@
 import React from 'react'
 import './about.css'
 import { Container,Row,Col } from 'react-bootstrap'
-import Figma from "../../assets/Figma.png"
+import Figma from "../../assets/figma.png"
 import Api from "../../assets/Api.png"
-import Js from "../../assets/Js.png"
+import Js from "../../assets/js.png"
 import react from "../../assets/react.png"
 import Laravel from "../../assets/Laravel.png"
 import Frame_work from "../../assets/Frame_work.png"
