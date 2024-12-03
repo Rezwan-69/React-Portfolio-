@@ -1,7 +1,7 @@
 import About from "./Components/about/About"
 import Banner from "./Components/banner/Banner"
 import Contacd from "./Components/contacd/Contacd"
-import Header from "./Components/Header/Header"
+import Header from "./Components/header/Header"
 
 
 function App() {
